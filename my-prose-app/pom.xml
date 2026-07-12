@@ -8,6 +8,13 @@
   <name>my-prose-app</name>
   <url>http://maven.apache.org</url>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>Github Packages</name>
+      <url>https://maven.pkg.github.com/jkoschitzki/proser</url>
+    </repository>
+  </distributionManagement>
   <repositories>
     <repository>
       <id>github</id>
