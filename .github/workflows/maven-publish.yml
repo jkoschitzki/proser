@@ -29,9 +29,9 @@ jobs:
           servers: '[{"id": "github", "username": "${{ github.actor }}"}, {"id": "prose-builder", "username": "${{ github.actor }}"}]'
 
       - name: Build with Maven
-        run: mvn -B package --file pom.xml
+        run: mvn -B package --file my-prose-app/pom.xml
 
       - name: Publish to GitHub Packages Apache Maven
-        run: mvn deploy
+        run: mvn deploy --file my-prose-app/pom.xml
         env:
           GITHUB_TOKEN: ${{ github.token }}

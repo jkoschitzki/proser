@@ -13,4 +13,4 @@ jobs:
         with:
           distribution: temurin
           java-version: 21
-      - run: mvn test
+      - run: mvn test --file my-prose-app/pom.xml
