@@ -8,7 +8,7 @@ Danke, dass du dich für die Sicherheit dieses Projekts interessierst. In diesem
 Bevorzuge bitte eine vertrauliche Meldung an das Projektteam über eine der folgenden Optionen:
 
 - GitHub Security Advisories (empfohlen): Öffne eine private Sicherheitsmeldung über die GitHub-UI -> "Security" -> "Advisories".
-- Alternativ: Eröffne ein Issue mit dem Label `security` und markiere es als vertraulich (private Issue) — oder kontaktiere die Maintainer direkt per E‑Mail: security@EXAMPLE.org (ersetze durch die echte Kontaktadresse).
+- Alternativ: Eröffne ein Issue mit dem Label `security` und markiere es als vertraulich (private Issue) — oder kontaktiere die Maintainer direkt per E‑Mail: jana.koschitzki@student.htw-berlin.de (ersetze durch die echte Kontaktadresse).
 
 Wichtig: Veröffentliche keine Exploits oder ausführliche technische Details in öffentlichen Issues, bevor das Problem behoben wurde.
 
